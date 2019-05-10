@@ -1,0 +1,8 @@
+Execute at: 2019-05-01 21:37:41.519911
+Progrma's time to execute: 43747.56811451912
+This averages: 8749.513622903823 seconds per iteration 
+The number of users: 162331
+The number of movies: 35
+Number of elements in the probe array: 5681585
+Privacy List: [0.0, 0.25, 0.5, 0.75, 1.0] 
+RSME List: [1.1007478139377522, 1.1007478139377522, 1.1007478139377522, 1.1007478139377522, 1.1007478139377522] 
